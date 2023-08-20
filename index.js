@@ -282,7 +282,7 @@ const editarCurso = async() => {
         }
     }
     finally{
-        console.log('Edición de estudiante Terminada');
+        console.log('Edición de curso Terminada');
     }
 }
 
